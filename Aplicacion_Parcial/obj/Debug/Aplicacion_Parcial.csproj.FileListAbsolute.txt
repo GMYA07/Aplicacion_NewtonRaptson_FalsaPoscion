@@ -1,0 +1,27 @@
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Aplicacion_Parcial.exe.config
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Aplicacion_Parcial.exe
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Aplicacion_Parcial.pdb
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Calculus.dll
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.csproj.AssemblyReference.cache
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Index.resources
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Properties.Resources.resources
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.csproj.GenerateResource.cache
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicaci.FABD7EC7.Up2Date
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.exe
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.pdb
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Newton_Rapson.resources
+C:\Users\YAMG\Desktop\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Falsa_Posicion.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Aplicacion_Parcial.exe.config
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Aplicacion_Parcial.exe
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\bin\Debug\Aplicacion_Parcial.pdb
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.csproj.AssemblyReference.cache
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Falsa_Posicion.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Index.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Newton_Rapson.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.Properties.Resources.resources
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.csproj.GenerateResource.cache
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.csproj.CoreCompileInputs.cache
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicaci.FABD7EC7.Up2Date
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.exe
+D:\UNICAES\CICLO_4\Metodos Numericos\Aplicacion_Parcial\Aplicacion_Parcial\obj\Debug\Aplicacion_Parcial.pdb
