@@ -13,5 +13,7 @@ Este proyecto no solo proporciona una herramienta útil para la resolución de e
 
 # Tecnologías Utilizadas
 Lenguaje: C#
+
 Entorno de Desarrollo: Visual Studio
+
 Estructuras de Datos: Funciones y algoritmos numéricos
